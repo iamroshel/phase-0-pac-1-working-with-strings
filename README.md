@@ -223,3 +223,4 @@ In this lesson, we learned how to declare `String`s, how to interpolate the
 value of expressions into `String`s, how to use different quote delimiters and
 escaping to create more complicated `String`s, and a couple different methods
 for joining `String`s.
+Roshel
